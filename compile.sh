@@ -1,0 +1,2 @@
+# This script compiles Python-8 into a working standalone application using PyInstaller, you will need PyInstaller installed to run this script.
+pyinstaller --onefile --windowed --name "Python-8" python-8.py 

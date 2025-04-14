@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ROM folder
+roms/
+
+# Config file
+config.ini
+
+# Savestate file
+savestate.ch8s
